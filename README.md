@@ -1,10 +1,12 @@
 About me 👋
 
-Hi, my name is Philip.
+Hi, my name is Philip. About a year ago, I started changing my career. I started attending courses and practicing independently in the field of quality assurance software. I've shared some of my independent work below.
 
 Tools 🔧:
 
 [JIRA](https://www.atlassian.com/software/jira) - Bug Tracking
+
+[Bugzilla](https://www.bugzilla.org/) - Bug Tracking
 
 [Testiny](https://www.testiny.io/) - Test management
 
